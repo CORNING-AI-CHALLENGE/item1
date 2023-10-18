@@ -24,6 +24,7 @@ The primary objective of this project is to develop a query engine that utilizes
 
 📖 참고 내용 
 
+   * 해당 과제 평가는 논문 형식의 pdf, word, 그리고 주어진 웹페이지에서 질문에 대한 올바른 정보를 제공하는 지를 판단합니다. 
    * (Download Llama 2 model) [https://ai.meta.com/llama/] - 13B or 70B  model is preferred 
    * (Open platform for LLM based chatbot) [https://github.com/lm-sys/FastChat]
    * (Interface between LLMs and data) [https://github.com/run-llama/llama_index]
