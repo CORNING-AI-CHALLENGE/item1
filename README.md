@@ -32,7 +32,3 @@ The primary objective of this project is to develop a query engine that utilizes
 
 아래는 대회형 인터페이스의 예시입니다. 사용자가 질문을 입력하면, target data 폴더에서 해당 내용 / 위치를 대화형으로 반환합니다. 
 ![image](https://github.com/CORNING-AI-CHALLENGE/item1/assets/146830948/8f1da305-38a7-45ec-9dd4-a3f7b560e43e)
-
-
-[자기소개서.pdf](https://github.com/CORNING-AI-CHALLENGE/item1/files/14307516/default.pdf)
-[이력서.pdf](https://github.com/CORNING-AI-CHALLENGE/item1/files/14307515/default.pdf)
